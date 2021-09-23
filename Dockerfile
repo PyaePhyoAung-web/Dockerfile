@@ -1,4 +1,4 @@
-# dockerhub: nzhukov/flaskapp
+# dockerhub: ppa/flaskapp
 
 FROM python:3.8-alpine
 
